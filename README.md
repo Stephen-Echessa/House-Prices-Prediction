@@ -1,6 +1,6 @@
 # House Prediction using Tree Ensemble Methods
 ## Introduction
-This project involved analyzing the Ames housing dataset to predict house prices based on various features. The goal was to conduct thorough Exploratory Data Analysis (EDA) and develop a robust machine learning model for accurate house price prediction.
+This Kaggle project involved analyzing the Ames housing dataset to predict house prices based on various features. The goal was to conduct thorough Exploratory Data Analysis (EDA) and develop a robust machine learning model for accurate house price prediction. I managed to land in the top 25% position at the leaderboard on uploading my final submission file.
 
 ## File Descriptions
 1) train.csv - The training set
